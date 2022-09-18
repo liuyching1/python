@@ -32,3 +32,12 @@ Hi
 
 Python
 """
+
+s="Hi"*3+",Python"
+print(s) #HiHiHi,Python
+
+s="Hi,Python"
+print(s[0:5]) #Hi,Py
+print(s[:5])  #Hi,Py
+print(s[1:])  #i,Python
+
