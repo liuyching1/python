@@ -13,3 +13,22 @@ print(x) #1.414  開根號
 
 x+=1
 print(x) # x+1 >> 2.414
+
+
+#字串運算
+s="Hi,Python"
+print(s) #Hi,Python
+
+s="Hi"+",python"
+print(s) #Hi,python
+
+
+s="""Hi
+
+Python"""
+print(s)
+"""
+Hi
+
+Python
+"""
