@@ -6,6 +6,3 @@ https://github.com/ppp0s/python/blob/main/numString.py
 
 [3.列表List,Tuple]:
 https://github.com/ppp0s/python/blob/main/listTuple.py
-
-[4.集合Set,Dictionary]
-https://github.com/ppp0s/python/blob/main/setDictionary.py
