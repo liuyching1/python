@@ -27,3 +27,8 @@ False
 #變數
 i={4,5,6}
 print(x)      #{4,5,6}
+
+input() #回傳字串型態
+int(input()) #轉成int型態
+eval((input()) #轉成數值型 (*)
+x= eval(input('這是提示文字'))
